@@ -1,4 +1,4 @@
-# APPNAME #
+# Bootstrap Carousel Module #
 
 **Bootstrap Carousel Module** is a module for Joomla 2.5+ which displays a carousel of images
 
@@ -30,6 +30,7 @@ If you are having issues getting this software to work, you can email support@bo
 
 ##Authors##
 Brad Traversy | [bootstrapjoomla.com](http://www.bootstrapjoomla.com)
+Dale DuRose | [cyberhaus.co.nz](http://www.cyberhaus.co.nz)
 
 * [http://twitter.com/bradtraversy](http://twitter.com/bradtraversy)
 * [http://www.linkedin.com/in/bradtraversy](http://www.linkedin.com/in/bradtraversy)
